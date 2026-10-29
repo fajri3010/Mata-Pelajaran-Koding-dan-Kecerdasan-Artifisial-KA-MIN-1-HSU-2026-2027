@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mata Pelajaran Koding dan Kecerdasan Artifisial (KA) MIN 1 HSU 2026-2027",
+  "description": "Media pembelajaran interaktif materi Perangkat Komputer dan Kecerdasan Artifisial untuk Kelas 5, 6A, dan 6B MIN 1 Hulu Sungai Utara dengan suara narasi manusia, game rakit PC, kuis, dan sertifikat resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
